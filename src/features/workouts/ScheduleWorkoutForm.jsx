@@ -19,7 +19,7 @@ const ScheduleWorkoutForm = ({ onSave, onClose }) => {
   };
 
   return (
-    <Main className="workout-form-modal" role="dialog" aria-modal="true" aria-labelledby="Schedule Workout Modal">
+    <div className="workout-form-modal" role="dialog" aria-modal="true" aria-labelledby="Schedule Workout Modal">
       <section className="workout-form-modal-bg" onClick={onClose} />
       <section className="workout-form-modal-content">
         <h2>Schedule a Workout</h2>
@@ -51,7 +51,7 @@ const ScheduleWorkoutForm = ({ onSave, onClose }) => {
         </form>
         <button className="close-form-btn" onClick={onClose}>Close</button>
       </section>
-    </Main>
+    </div>
   );
 };
 
