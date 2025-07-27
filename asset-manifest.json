@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fitnessappexam/static/css/main.0f107cfa.css",
+    "main.js": "/fitnessappexam/static/js/main.7be8590d.js",
+    "static/js/453.4df3368e.chunk.js": "/fitnessappexam/static/js/453.4df3368e.chunk.js",
+    "static/media/istockphoto-1324624694-612x612.jpg": "/fitnessappexam/static/media/istockphoto-1324624694-612x612.05ecc41ec6f3678150f5.jpg",
+    "index.html": "/fitnessappexam/index.html",
+    "main.0f107cfa.css.map": "/fitnessappexam/static/css/main.0f107cfa.css.map",
+    "main.7be8590d.js.map": "/fitnessappexam/static/js/main.7be8590d.js.map",
+    "453.4df3368e.chunk.js.map": "/fitnessappexam/static/js/453.4df3368e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f107cfa.css",
+    "static/js/main.7be8590d.js"
+  ]
+}
